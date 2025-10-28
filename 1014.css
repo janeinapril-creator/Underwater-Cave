@@ -1,0 +1,88 @@
+section {
+    position: absolute;
+}
+.A { 
+    top: 0; 
+    left: 0; 
+    width: 100%; 
+    height: 12.5%; 
+    background: hsl(277, 67%, 41%); 
+} 
+.B { 
+    top: 12.5%; 
+    right: 0; 
+    width: 12.5%; 
+    height: 87.5%; 
+    background: hsl(270, 70%, 45%); 
+} 
+.C { 
+    bottom: 0; 
+    left: 0; 
+    width: 87.5%; 
+    height: 12.5%; 
+    background: hsl(263, 73%, 49%); 
+} 
+.D { 
+    top: 12.5%; 
+    left: 0; 
+    width: 12.5%; 
+    height: 75%; 
+    background: hsl(256, 76%, 53%); 
+} 
+.E { 
+    top: 12.5%; 
+    left: 12.5%; 
+    width: 75%; 
+    height: 12.5%; 
+    background: hsl(249, 79%, 57%); 
+} 
+
+.F { 
+    top: 25%; 
+    right: 12.5%; 
+    width: 12.5%; 
+    height: 62.5%; 
+    background: hsl(242, 82%, 61%); 
+} 
+.G { bottom: 12.5%; 
+    left: 12.5%; 
+    width: 62.5%; 
+    height: 12.5%; 
+    background: hsl(235, 85%, 65%); 
+} 
+.H { 
+    top: 25%; 
+    left: 12.5%; 
+    width: 12.5%; 
+    height: 50%; 
+    background: hsl(228, 88%, 69%); 
+} 
+
+.I { 
+    top: 25%; 
+    left: 25%; 
+    width: 50%; 
+    height: 12.5%; 
+    background: hsl(221, 91%, 73%); 
+} 
+.J { 
+    top: 37.5%; 
+    right: 25%; 
+    width: 12.5%; 
+    height: 37.5%; 
+    background: hsl(214, 94%, 77%); 
+}
+.K { 
+    bottom: 25%; 
+    left: 25%; 
+    width: 37.5%; 
+    height: 12.5%; 
+    background: hsl(207, 97%, 81%); 
+} 
+.L { 
+    top: 37.5%; 
+    left: 25%; 
+    width: 37.5%; 
+    height: 25%; 
+    background: hsl(200, 100%, 85%); 
+} 
